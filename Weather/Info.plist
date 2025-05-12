@@ -19,5 +19,7 @@
 			</array>
 		</dict>
 	</dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Приложению требуется доступ к вашей геопозиции для отображения погоды.</string>
 </dict>
 </plist>
